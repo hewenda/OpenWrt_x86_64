@@ -19,3 +19,5 @@
 
  git clone https://github.com/kenzok8/openwrt-packages.git tmp/openwrt-packages
  cp -r tmp/openwrt-packages/luci-app-openclash package/luci-app-openclash
+
+ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
